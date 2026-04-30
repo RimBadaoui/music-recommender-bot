@@ -1,3 +1,5 @@
+loom demo: https://www.loom.com/share/68867d69e0114d25bc53401499226a11
+
 Explicitly name your original project (from Modules 1-3) and provide a 2-3 sentence summary of its original goals and capabilities.
 This is my creative twist on a combination of the mood machine and the music recommender projects. The mood machine classifies the mood of text based on 
 mappings given to it with examples of phrases mapped to certain emotions, and the music recommender suggested songs to users based on a .csv file 
